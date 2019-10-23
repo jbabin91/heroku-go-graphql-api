@@ -1,0 +1,7 @@
+{
+  "name": "Go Graphql API",
+  "description": "This is a go graphql api",
+  "keywords": ["go", "graphql", "api", "example"],
+  "website": "http://github.com/jbabin91/heroku-go-graphql-api",
+  "repository": "http://github.com/jbabin91/heroku-go-graphql-api"
+}
